@@ -1,4 +1,4 @@
-<base href="https://cdn.jsdelivr.net/gh/veryeducationing3/lobbert/">
+
 
 let createAzaharModuleFactoryPromise = null;
 let azaharRuntimeScriptPromise = null;
